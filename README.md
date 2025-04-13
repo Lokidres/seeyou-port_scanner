@@ -39,7 +39,7 @@ go get github.com/Lokidres/seeyou-port_scanner
 Or clone and build manually:
 
 ```bash
-git clone https://github.com/Lokidres/seeyou-port_scanner
+git clone https://github.com/Lokidres/seeyou-port_scanner.git
 cd seeyou-port_scanner
 go build
 ```
