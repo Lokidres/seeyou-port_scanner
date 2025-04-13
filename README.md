@@ -33,14 +33,14 @@ A powerful, feature-rich port scanner and service detector written in Go, design
 ## Installation
 
 ```bash
-go get github.com/yourusername/seeyou
+go get github.com/Lokidres/seeyou-port_scanner
 ```
 
 Or clone and build manually:
 
 ```bash
-git clone https://github.com/yourusername/seeyou.git
-cd seeyou
+git clone https://github.com/Lokidres/seeyou-port_scanner
+cd seeyou-port_scanner
 go build
 ```
 
