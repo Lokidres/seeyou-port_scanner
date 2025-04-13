@@ -33,7 +33,8 @@ A powerful, feature-rich port scanner and service detector written in Go, design
 ## Installation
 
 ```bash
-go get github.com/Lokidres/seeyou-port_scanner
+go install github.com/Lokidres/seeyou-port_scanner@latest
+
 ```
 
 Or clone and build manually:
